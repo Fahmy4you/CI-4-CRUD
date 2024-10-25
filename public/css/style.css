@@ -1,0 +1,11 @@
+.img-komik {
+  width: 70px;
+}
+
+.komik-table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.img-detail {
+  width: 190px;
+}
